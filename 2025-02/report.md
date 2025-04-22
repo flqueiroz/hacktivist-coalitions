@@ -1,3 +1,5 @@
+HACKTIVISM COALITIONS: PATTERNS OF COLLABORATIONS BETWEEN GROUPS (FEV 2025)
+
 ■ My Hacktivism Coalition Diagram for February 2025 presents the changing structure of cyber activist alliances, showing how different hacking groups are connected. These groups have formed partnerships despite having different goals and operating in various regions.
 
 📍 KEY INSIGHTS
@@ -7,6 +9,7 @@
 ■ By forming alliances with other hacktivist groups, Akatsuki Cyber Team has carried out coordinated cyber offensives targeting interests in Bangladesh, China, Colombia, Cyprus, Denmark, France, Germany, Greece, India, Indonesia, Israel, Italy, Mali, Nepal, Nigeria, Poland, Russia, Saudi Arabia, Spain, Thailand, Turkey, UAE, Ukraine, UK, Uruguay, USA, and Vietnam.
 
 ■ In a hub-centric hacktivist coalition, secondary groups serve as minor connections, extending the influence of a main hub group:
+
 👨‍💻 RABBIT CYBER TEAM;
 👨‍💻 CYBER TEAM INDONESIA;
 👨‍💻 H4x0r Umbrella Corp; 
