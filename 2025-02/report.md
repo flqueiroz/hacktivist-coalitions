@@ -15,7 +15,9 @@ HACKTIVISM COALITIONS: PATTERNS OF COLLABORATIONS BETWEEN GROUPS (FEV 2025)
 👨‍💻 CYBER TEAM INDONESIA;
 
 👨‍💻 H4x0r Umbrella Corp; 
+
 👨‍💻 Maroccan Black Cyber Army; and
+
 👨‍💻 Dark Storm Team.
 
 ■ On March 10, 2025, the Dark Storm Team claimed responsibility for the DDoS attack against X (formerly Twitter) via a Telegram post, sharing a screenshot of a real-time connectivity status page showing failed connection attempts worldwide. Formed in 2023, the pro-Palestinian group has previously declared its intent to launch cyber offensives against government websites belonging to NATO countries, Israel, and states allied with Israel. 
