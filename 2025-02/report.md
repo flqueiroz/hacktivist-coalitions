@@ -11,7 +11,9 @@ HACKTIVISM COALITIONS: PATTERNS OF COLLABORATIONS BETWEEN GROUPS (FEV 2025)
 ■ In a hub-centric hacktivist coalition, secondary groups serve as minor connections, extending the influence of a main hub group:
 
 👨‍💻 RABBIT CYBER TEAM;
+
 👨‍💻 CYBER TEAM INDONESIA;
+
 👨‍💻 H4x0r Umbrella Corp; 
 👨‍💻 Maroccan Black Cyber Army; and
 👨‍💻 Dark Storm Team.
