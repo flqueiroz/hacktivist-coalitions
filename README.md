@@ -1,6 +1,6 @@
 # Hacktivism Coalitions
 
-![Screenshot 2025-04-23 at 17 07 07](https://github.com/user-attachments/assets/1c10915e-77b4-47df-9501-88241e0cdb88)
+![1533464335](https://github.com/user-attachments/assets/3ec386fc-f76d-4bb1-bedb-0e981e955606)
 
 
 This repository is a personal initiative dedicated to documenting, analyzing, and visualizing global hacktivist coalitions.
