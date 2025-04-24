@@ -2,7 +2,7 @@
 
 An initiative dedicated to documenting, analyzing, and visualizing global hacktivist coalitions.
 
-![Screenshot 2025-04-24 at 17 43 24](https://github.com/user-attachments/assets/88e39c42-6440-4ba6-b978-22b83d8e3d1f)
+![Screenshot 2025-04-24 at 17 43 24](https://github.com/user-attachments/assets/88e39c42-6440-4ba6-b978-22b83d8e3d1f)?raw=true
 
 
 ## 📁 Structure
