@@ -13,7 +13,7 @@ Content is organized in monthly folders. Each folder includes:
 
 ## 🎯 Purpose
 
-To build an open knowledge base for understanding how hacktivist groups organize, collaborate, and communicate — with a focus on geopolitical campaigns, symbolic hacktivism, decentralized cyber conflicts, and their impact on cyber threat intelligence collection and analysis. This repository aims to support analysts, researchers, and defenders in identifying patterns, motivations, and tactics used in hacktivist cyber offensives.
+To analyze how hacktivist actors form coalitions and operate across cyberspace, supported by graph-driven and link analysis, focusing on geopolitical campaigns, symbolic hacktivism, decentralized cyber conflicts, and their relevance to threat detection, attribution, and strategic forecasting. This repository aims to support analysts, researchers, and defenders in identifying patterns, motivations, and tactics used in hacktivist cyber offensives.
 
 ## 🌍 Scope
 
