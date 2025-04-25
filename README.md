@@ -3,6 +3,7 @@
 An initiative dedicated to documenting, analyzing, and visualizing global hacktivist coalitions.
 
 
+![Hacktivist Banner](https://github.com/flqueiroz/hacktivist-coalitions/blob/main/banner.png?raw=true)
 
 
 
