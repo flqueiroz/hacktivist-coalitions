@@ -12,8 +12,8 @@ The diagram shows hacktivist coalitions and interconnections among 21 hacktivist
 
 These nodes have multiple direct connections, indicating:
 
-    ◽ They function as central coordinators.
+◽ They function as central coordinators.
 
-    ◽ They likely share infrastructure (forums, channels, toolkits).
+◽ They likely share infrastructure (forums, channels, toolkits).
 
-    ◽ They bridge multiple regional or thematic cells.
+◽ They bridge multiple regional or thematic cells.
