@@ -7,6 +7,7 @@ The diagram shows hacktivist coalitions and interconnections among 21 hacktivist
 1️⃣ Main Hub Groups (yellow squares)
 
 👨‍💻 Garuda Error System
+
 👨‍💻 R3VOXAnOnymous
 
 These nodes have multiple direct connections, indicating:
