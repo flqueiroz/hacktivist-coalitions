@@ -21,5 +21,7 @@ Primary Focus:
 🛠️ Tools
 
 ◽  Open-source DDoS tools (e.g., LOIC, HOIC).
+
 ◽  Website exploit kits (SQL injection, brute-force tools).
+
 ◽  Mass email or social engineering scripts for credential harvesting.
